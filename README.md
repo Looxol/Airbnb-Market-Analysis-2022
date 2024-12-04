@@ -11,20 +11,25 @@ SMOTENC was employed to address class imbalance and generate synthetic data poin
 
 ### Data Description
 
-`person_age`: Age of the person (integer)
-`person_age`: Annual income (float)
-`person_emp_exp`: Years of employment experience (integer)
-`loan_amnt`: Loan amount requested (integer)
-`loan_int_rate`: Loan interest rate (float)
-`loan_percent_income`: Loan amount as a percentage of annual income (float)
-`cb_person_cred_hist_length`: Length of credit history in years (float)
-`credit_score`: Credit score of the person (integer)
-`loan_status` (target variable): Loan approval status: 1 = approved; 0 = rejected (integer)
+### **Target Variable**
+- **`loan_status`**: (Integer)
+  - Loan approval status:
+    - `1` = Approved
+    - `0` = Rejected
 
-**Categorical:**
+### **Numerical Features**
+- **`person_age`**: Age of the person (Float)
+- **`person_income`**: Annual income (Float)
+- **`person_emp_exp`**: Years of employment experience (Integer)
+- **`loan_amnt`**: Loan amount requested (Float)
+- **`loan_int_rate`**: Loan interest rate (Float)
+- **`loan_percent_income`**: Loan amount as a percentage of annual income (Float)
+- **`cb_person_cred_hist_length`**: Length of credit history in years (Float)
+- **`credit_score`**: Credit score of the person (Integer)
 
-`person_gender`: Gender of the person (categorical)
-`person_education`: Highest education level (categorical)
-`person_home_ownership`: Home ownership status (categorical)
-`loan_intent`: Purpose of the loan (categorical)
-`previous_loan_defaults_on_file`: Indicator of previous loan defaults (categorical)
+### **Categorical Features**
+- **`person_gender`**: Gender of the person
+- **`person_education`**: Highest education level
+- **`person_home_ownership`**: Home ownership status
+- **`loan_intent`**: Purpose of the loan
+- **`previous_loan_defaults_on_file`**: Indicator of previous loan defaults
