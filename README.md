@@ -1,8 +1,6 @@
-# Loan-Approval-Classification
+# Airbnb Market Analysis 2023
 
 ## Project Overview
-This project aims to develop a machine learning model to predict loan approval for educational purposes. 
-The dataset used in this project is a synthetic version inspired by the Credit Risk dataset on Kaggle and enriched with additional financial risk factors. 
-SMOTENC was employed to address class imbalance and generate synthetic data points.
+This project provides a comprehensive analysis of Airbnb's performance in 2022, with a focus on market trends, pricing strategies, and actionable insights for hosts. By leveraging data analysis tools and AI-powered insights, the project identifies key opportunities and challenges in the short-term rental market.
 
 ---
