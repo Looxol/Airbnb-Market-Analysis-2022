@@ -1,6 +1,5 @@
-# Airbnb Market Analysis 2023
+# Airbnb Market Analysis 2022
 
 ## Project Overview
-This project provides a comprehensive analysis of Airbnb's performance in 2022, with a focus on market trends, pricing strategies, and actionable insights for hosts. By leveraging data analysis tools and AI-powered insights, the project identifies key opportunities and challenges in the short-term rental market.
-
+The Airbnb market in the UK has experienced remarkable growth, driven by increasing demand for short-term rentals. However, challenges such as high pricing and market saturation threaten accessibility and profitability. This project leverages data-driven insights to explore market trends, evaluate pricing dynamics, and offer actionable strategies for hosts to thrive in competitive environments like London.
 ---
